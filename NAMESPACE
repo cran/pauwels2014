@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+useDynLib(pauwels2014)
+import(deSolve,ggplot2)
